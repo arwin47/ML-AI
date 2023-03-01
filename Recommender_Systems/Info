@@ -1,0 +1,11 @@
+This section contains recommender system projects which would be one of the below.
+
+1. Content based filterig: Similar content
+
+Recommendation based on the similarity of the content. This method required knowledge about the content and their categorization.
+
+2. Collaboration based filterig: Similar users
+
+Recommendation based on the similarity of users basis their watch history. This method doesn't required information on the type of contents
+
+3. Demographic filterig: Similar demographic features or some genric recommendations
